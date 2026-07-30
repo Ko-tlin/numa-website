@@ -29,8 +29,12 @@ NUMAでは毎月開催の定例会や、不定期にLT会やハッカソンな�
 
 ---
 
-## より詳細な情報
-詳細な入会条件も含め、本組織の詳細については、[**NUMA 紹介資料**](https://docs.google.com/document/d/1m6V6IItkijHTW4leKcfPeg1cJ25iKln2hkNFw69PJng/edit?usp=sharing)の 「NUMAで活動するためには？」 の項目をご確認ください。
+<h2>
+  <a href="https://discord.gg/CeWgNj5cfX">Discordサーバー</a>
+</h2>
+
+加盟フォーム等、その他詳細な情報もDiscordサーバ内にあるので興味のある方は是非入ってください。
+<!-- 詳細な入会条件も含め、本組織の詳細については、[**NUMA 紹介資料**](https://docs.google.com/document/d/1m6V6IItkijHTW4leKcfPeg1cJ25iKln2hkNFw69PJng/edit?usp=sharing)の 「NUMAで活動するためには？」 の項目をご確認ください。
 
 また、上記リンクが使用できない場合やご不明な点がある場合は遠慮なく[Twitter NUMA公式アカウント](https://x.com/numa_meta_) へダイレクトメッセージをお送りください。  
 （※DM受信を「全員に許可」に設定してください → [設定方法はこちら](https://help.twitter.com/ja/using-x/direct-messages#receive)）
@@ -44,4 +48,4 @@ new MutationObserver(() => {
   console.log(isDark)
   cover.src = (isDark) ? 'NUMALogo_Rectangle_White_alpha.svg' : 'NUMALogo_Rectangle_Black_alpha_cut.svg';
 }).observe(document.body, { attributes: true, attributeFilter: ['class'] });
-</script>
+</script>--!>
