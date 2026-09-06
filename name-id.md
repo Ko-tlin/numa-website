@@ -18,4 +18,4 @@
 - **Neptunity**: `neptunity`
 - **空間工作研究会**: `mauxr`
 - **東京電機大学コンピュータークラブ部VR班**: `TDUCC`
-- **早稲田大学VTuber研究会XR部**: `waseda`
+- **早稲田大学VTuber研究会XR部**: `waseda-vtuber`
