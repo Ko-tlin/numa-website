@@ -151,3 +151,12 @@
   links:
     - label: "公式Xアカウント"
       url: "https://x.com/tducomputer"
+
+- id: "waseda-vtuber"
+  name: "早稲田大学VTuber研究会XR部"
+  university: "早稲田大学"
+  links:
+    - label: "公式サイト"
+      url: "https://waseda.vken.org/home"
+    - label: "公式Xアカウント"
+      url: "https://x.com/waseda_Virtual"
