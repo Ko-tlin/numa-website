@@ -13,8 +13,8 @@
 <title>
   {{- if .IsHome -}} {{ site.Title }} {{- else -}} {{- $pageTitle := .Title -}}
   {{/* --- 追加ロジック: タグページの場合、IDを正式名称に変換 --- */}} {{- if eq
-  .Kind "term" -}} {{- if site.Data.circles.list -}} {{- range
-  site.Data.circles.list -}} {{- if eq (lower .id) (lower $pageTitle) -}} {{-
+  .Kind "term" -}} {{- if hugo.Data.circles.list -}} {{- range
+  hugo.Data.circles.list -}} {{- if eq (lower .id) (lower $pageTitle) -}} {{-
   $pageTitle = .name -}} {{- end -}} {{- end -}} {{- end -}} {{- end -}} {{/*
   ----------------------------------------------------------- */}} {{ $pageTitle
   }} | {{ site.Title }} {{- end -}}
